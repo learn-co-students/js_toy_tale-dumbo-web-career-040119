@@ -70,8 +70,12 @@ function increaseLikes(event) {
     return response.json()
   }).then(function(data){
     // console.log(data)
-    likesSpan.innerText = data.likes
+    likesSpan.innerText = data.likes //pessimistic
   })
+
+  // likesSpan.innerText = newNumberOfLikes //optimisti
+
+
 
   // update the number of likes on the DOM
 
