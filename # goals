@@ -1,0 +1,14 @@
+# goals
+## STEP 4: Add a new toy!
+All of the event listener stuff
+## STEP 5: Increase toy's likes!
+tf is the second .then after the fetch
+using datasets to make this cleaner?
+Making the images contain themselves in the cards
+Optimistic vs. Pessimistic rendering
+
+# long shots
+error with jpegs?
+DOMContentLoaded — what it do? Defer?
+catching
+caching
